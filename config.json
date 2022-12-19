@@ -1,0 +1,16 @@
+{
+  "elastic_credentials": {
+    "protocol": "http",
+    "host": "192.168.2.12",
+    "port": 9200,
+    "user": "changeme",
+    "pass": "changeme"
+  },
+  "cluster_name": "orbit",
+  "poll_period_seconds": 60,
+  "status_color": {
+    "green": [0, 0, 255],
+    "yellow": [255, 255, 0],
+    "red" : [255, 0, 0]
+  }
+}

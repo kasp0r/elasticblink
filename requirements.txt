@@ -1,0 +1,9 @@
+BlinkStick
+certifi==2022.12.7
+elasticsearch==7.17
+pip
+pywinusb==0.4.2
+setuptools==60.2.0
+urllib3==1.26.13
+wheel
+pathlib
